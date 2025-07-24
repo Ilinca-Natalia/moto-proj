@@ -27,8 +27,7 @@ An educational web platform aimed at promoting preventive driving habits among m
 
 ## Documentation
 
-You can read the full PDF documentation here:  
-👉 [Open PDF Documentation](https://<Ilinca-Natalia>.github.io/<moto-proj>/Conducere Preventivă - MOTO.pdf)
+You can read the full PDF documentation -> pages ->
 
 ---
 
