@@ -27,7 +27,8 @@ An educational web platform aimed at promoting preventive driving habits among m
 
 ## Documentation
 
-You can read the full PDF documentation -> pages ->
+You can read the full PDF documentation here: --->
+https://ilinca-natalia.github.io/moto-proj/
 
 ---
 
